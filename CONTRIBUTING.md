@@ -43,7 +43,7 @@ Don't be weird.
 
 ### For the Man
 
-### 1. [Title]
+#### 1. [Title]
 [The thesis in one sentence.]
 
 **Why:** [One or two sentences of reasoning. Real-world, not theory.]
@@ -57,9 +57,9 @@ Don't be weird.
 ```
 ---
 
-## For the Machine
+### For the Machine
 
-### 1. [Title]
+#### 1. [Title]
 [The thesis in one sentence, written as an instruction to the model.]
 
 **Why it works:** [One sentence.]
