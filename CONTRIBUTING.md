@@ -36,3 +36,37 @@ Use a clear title and explain the reasoning behind your suggestion.
 ## Code of conduct
 
 Don't be weird.
+
+
+## The Theses
+---
+
+### For the Man
+
+### 1. [Title]
+[The thesis in one sentence.]
+
+**Why:** [One or two sentences of reasoning. Real-world, not theory.]
+
+**Example:**
+```
+[bad]
+```
+```
+[good]
+```
+---
+
+## For the Machine
+
+### 1. [Title]
+[The thesis in one sentence, written as an instruction to the model.]
+
+**Why it works:** [One sentence.]
+
+**Drop this in your CLAUDE.md:**
+```
+[copy-paste ready snippet]
+```
+
+---
