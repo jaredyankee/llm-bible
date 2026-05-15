@@ -24,11 +24,11 @@ If you prompt like an idiot, it builds like an idiot. Period.
 
 ### The Man
 
-The n Theses for the Man are rules for you to abide by. You're not going to read them, and that's okay, but if you do, and follow the practices advised in it, you might save your usage. 
+The n Theses for the Man are rules for you to abide by. 
+
+You're not going to read them, and that's okay, but if you do, and follow the practices advised in it, you might learn something, make a new habit, or even stop a menty-b just before your project hits the point of no return.
 
 ### The Machine
-
-Now this is the real bread and butter here.
 
 Unlike you, your agentic programmer *will* read The n Theses for the Machine. 
 
@@ -44,7 +44,7 @@ Unlike you, your agentic programmer *will* read The n Theses for the Machine.
 
 ### The Theses
 
-These are instructions for your model. They 
+These are instructions for your model. They.. 
 - get the model to build modularly 
 - get the model to ask better questions 
 - get the model to work like a project-manager and developer, the way god intended
@@ -58,4 +58,4 @@ Open a PR or file an issue.
 
 Put whatever you want. I might put them up for a poll within the community, or approve them based on my own misguided philosophies.
 
-Maybe a wall of shame for some of the worst recs.
+Maybe a wall of shame for some of the worst recs and my own mistakes.
