@@ -57,11 +57,11 @@ The templates below exist to advise you and keep you in the spirits of the proje
 
 #### ❌ Bad Prompt
 ```
-
+[bad prompt >:( ]
 ```
 #### ✅ Good Prompt
 ```
-
+[good prompt :)]
 ```
 
 #### **Clarity** *(optional)*
@@ -71,7 +71,7 @@ The templates below exist to advise you and keep you in the spirits of the proje
 ## The Machine
 
 ### [Title]
-[The thesis in one sentence, written as an instruction to the model.]
+[the thesis in one sentence, written as an instruction to the model.]
 
 #### **Why it works:** [One or two sentences.]
 
