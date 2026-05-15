@@ -57,7 +57,7 @@ The templates below exist to advise you and keep you in the spirits of the proje
 
 #### ❌ Bad Prompt
 ```
-[bad prompt >:( ]
+[bad prompt >:(]
 ```
 #### ✅ Good Prompt
 ```
