@@ -9,17 +9,22 @@
 The n Theses for LLM usage. Less tokens, better responses etc..
 
 ## Foreword
+
 This is for actual developers that read what their claude code is doing and the vibe coders who couldn't if they tried. 
 
 I am not the smartest LLM user, or even the best programmer. I can't argue, even if I am right I will lose. 
 
 But I know that there are some smart people out there who will take one look at this and tell me all the reasons I am wrong. Please, please do it. 
 
+Believe it or not I *do* read what claude-code says to me, and I don't always like it. I want to better align it with my wants and needs.
+
+If you prompt like an idiot, it builds like an idiot. Period.
+
 ## Objective
 
 ### The Man
 
-The n Theses for the Man are rules for you to abide by. You're not going to read them, and thats okay, but if you do, and follow the practices advised in it, you might save your usage . 
+The n Theses for the Man are rules for you to abide by. You're not going to read them, and that's okay, but if you do, and follow the practices advised in it, you might save your usage. 
 
 ### The Machine
 
