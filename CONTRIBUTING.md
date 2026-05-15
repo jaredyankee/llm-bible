@@ -38,35 +38,49 @@ Use a clear title and explain the reasoning behind your suggestion.
 Don't be weird.
 
 
-## The Theses
----
+## Thesis Format
 
-### For the Man
+The templates below exist to advise you and keep you in the spirits of the project. There is enough novelty and complexity involved with LLMs that, if you find a better way to express your theses, feel free. It might even be incorporated into the template
 
-#### 1. [Title]
-[The thesis in one sentence.]
 
-**Why:** [One or two sentences of reasoning. Real-world, not theory.]
+## The Man
 
-**Example:**
+### [Title]
+
+[the thesis in one sentence]
+
+**Why:**  [One or two sentences of reasoning. Real-world, not theory.]
+
+**Example**
+
+[Model Used] [initial response from the model] *see types of model messages [coming soon]*
+
+#### ❌ Bad Prompt
 ```
-[bad]
-```
-```
-[good]
-```
----
 
-### For the Machine
+```
+#### ✅ Good Prompt
+```
 
-#### 1. [Title]
+```
+
+#### **Clarity** *(optional)*
+[plain english explanation, no constraints]
+
+
+## The Machine
+
+### [Title]
 [The thesis in one sentence, written as an instruction to the model.]
 
-**Why it works:** [One sentence.]
+#### **Why it works:** [One or two sentences.]
 
-**Drop this in your CLAUDE.md:**
+#### **Clarity**
+[plain english explanation, no constraints]
+
+#### **Drop this in your CLAUDE.md:**
 ```
 [copy-paste ready snippet]
 ```
 
----
+
