@@ -27,7 +27,18 @@ we talked about making like an LlmBible with all the little tips and tricks for 
 I am working on a project that will serve as an open-source repository and resource for LLM prompting best practices. I am trying to decide between llmbible.ai and llmmd.ai.
 ```
 
+### Reference
 
+Anthropic sent me an email with some basic considerations you learned in 1st grade. Turns out it works for AI too:
 
+**Who**  
+Tell Claude about yourself if it's relevant (“I'm a marketing manager working on a campaign”)
 
+**What**  
+Be specific about your task ("I need to write a blog post about sustainable fashion")
 
+**Why**  
+Share your goals ("This needs to appeal to Gen Z customers")
+
+**How**  
+Mention any preferences ("Keep it under 500 words and include statistics")
