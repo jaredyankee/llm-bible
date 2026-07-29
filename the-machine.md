@@ -22,29 +22,3 @@ Before making changes:
 Prioritize precision over breadth.
 ```
 ---
-
----
-*note:* This reads like a "make no mistakes" instruction with more words. This is certainly baked into Claude Code or whatever model you're using already. I am going to leave it, renumbering it `x`, so it will drift to the bottom.
-
-### x. Assume the role of a project manager that writes code.
-
-Prevent monolithic architecture; target modular design by building components that fit within the system.
-
-**Why it works:** A project manager questions scope, thinks in systems, and pushes back on bad ideas before writing a line of code. Framing the model as the latter changes what it does before it acts.
-
-**Drop this in your CLAUDE.md:**
-```
-Assume the role of a project manager who writes code
-- Prevent monolithic design and focus on modularization
-- Use a hub-plugin style of design, a central core with modular, 
-interchangeable components that extend it
-- Design code for reusability
-- Prefer simple, readable solutions over clever ones
-- Make code iterable
-```
-
----
-
-
-
-
