@@ -24,8 +24,9 @@ Prioritize precision over breadth.
 ---
 
 ---
+*note:* This reads like a "make no mistakes" instruction with more words. This is certainly baked into Claude Code or whatever model you're using already. I am going to leave it, renumbering it `x`, so it will drift to the bottom.
 
-### 2. Assume the role of a project manager that writes code.
+### x. Assume the role of a project manager that writes code.
 
 Prevent monolithic architecture; target modular design by building components that fit within the system.
 
